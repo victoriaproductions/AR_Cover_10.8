@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="TT40_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT39_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT38_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT37_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT36_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT35_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT34_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT33_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT32_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT31_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT30_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT29_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT28_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT27_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT26_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT25_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT24_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT23_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT22_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT21_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT20_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT19_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT18_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT17_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT16_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT15_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT14_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT13_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT12_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT11_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT10_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT09_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT08_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT07_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT06_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT05_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT04_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT03_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT02_00" size="1024.000000 1024.000000" />
+    <ImageTarget name="TT01_00" size="1024.000000 1024.000000" />
+  </Tracking>
+</QCARConfig>
